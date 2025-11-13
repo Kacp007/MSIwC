@@ -1,0 +1,8 @@
+misc/
+__pycache__/
+*.pyc
+preprocessing/output/
+preprocessing/data/
+preprocessing/reports/
+.DS_Store
+Thumbs.db
