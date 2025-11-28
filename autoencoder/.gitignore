@@ -1,0 +1,3 @@
+*.pkl
+detection_results.json
+plots*/
